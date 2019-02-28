@@ -1,0 +1,8 @@
+HouseId ElectronicId GasId Name ElectronicBudgetValue ElectronicBudgetType GasBudgetValue GasBudgetType password email address
+55 55 55 王昕喆 28 kWh 32 kWh 123 111@qq.com BUPT
+340 340 340 人生 210.1 kWh 100 kWh 123 111@qq.com BUPT
+727 727 727 几何 100 kWh 100 kWh 123 111@qq.com BUPT
+452 452 452 shabi 100 kWh 100 kWh 3315212 111@qq.com BUPT
+1526488408 1526488408 1526488408 www 100 kWh 100 kWh 3315212 111@qq.com BUPT
+1526488751 1526488751 1526488751 wangchen 100 kWh 100 kWh 12321 111@qq.com BUPT
+1526489006 1526489006 1526489006 ren 100 kWh 100 kWh 21321 111@qq.com BUPT
